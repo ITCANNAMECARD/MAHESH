@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Kumar;Mahesh;;;
-FN: Mahesh Kumar
+N:Sujan;Sippy;;;
+FN: Sippy Sujan
 ORG:ITCAN;
-TITLE:Senior Manager-Talent Acquisition
-EMAIL;type=INTERNET;type=WORK;type=pref:mahesh@itcan.biz
-TEL;type=WORK;type=VOICE:+65 9724 9349
+TITLE:Regional Director
+EMAIL;type=INTERNET;type=WORK;type=pref:sippy.sujanitcan.biz
+TEL;type=WORK;type=VOICE:+65 9336 7884
 item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.itcan.biz
